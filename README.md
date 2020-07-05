@@ -1,1 +1,2 @@
-# Cricket-Score-Prediction-IPL
+# Cricket First inning Score Prediction(IPL) - Deployment 
+![Python 3.6]
