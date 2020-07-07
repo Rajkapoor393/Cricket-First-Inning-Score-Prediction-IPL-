@@ -33,12 +33,12 @@ Dataset consists following columns:
 - total: Total runs scored by batting team at the end of first innings.
 ## Dependencies:
 - Python - 3.6
-• Scikit-Learn
-• Pandas
-• Numpy
-• Matplotlib
-• Seaborn
-• Google Colaboratory
+- Scikit-Learn
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Google Colaboratory
 
 ## Algorithms Used:
 - Linear Regression
